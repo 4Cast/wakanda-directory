@@ -1,7 +1,7 @@
 # wakanda-directory
 
 - inside the folder `backend/modules` create a folder `directory`
-- copy the files inside it
+- copy the three files in this repo into the new directory
 - declare the `index.js` file as a service ( [how-to](http://wakanda.github.io/wakanda-server-doc/#/doc/overview/services) )
 - start the server or restart it if it is already started
 
